@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/Ikky/MyApp/lib/MyApp/View'
+let g:netrw_dirhist_2='/home/Ikky/cm_fusion/htdocs/js/ECM'
+let g:netrw_dirhist_3='/home/Ikky/cm_fusion/Fusion/lib/Fusion/Controller/Mailing'
+let g:netrw_dirhist_4='/home/Ikky/cm_fusion/Fusion/lib/Fusion/View/Unbuffered'
